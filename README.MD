@@ -41,5 +41,7 @@ Google推荐使用`dip`、`sp`代替`px`，原因是密度无关像素（density
     android:background="@drawable/main_bg_shape"/>
 ```
 
+参考例子：[简单屏幕适配方案](https://github.com/TeachCourse/BlogSource/tree/master/screenadapter/src/main/java/cn/teachcourse/screenadapter)
+
 
 
